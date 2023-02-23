@@ -5,7 +5,7 @@ import { useState } from "react";
 const Home = () => {
 
 	//        ↓ variable name             ↓ default value
-	const [color, setColor] = useState("red");
+	const [color, setColor] = useState("");
 	//               ⬆ function to change the color
 	
 	return (
