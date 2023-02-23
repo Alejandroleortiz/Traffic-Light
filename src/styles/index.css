@@ -12,7 +12,7 @@
 */
 .trafficLight{
     background: black;
-    padding: 18px;
+    padding: 10px;
     display: inline-block;
     align-items: center;
     justify-content: center;
@@ -30,7 +30,7 @@
 width: 100px;
 height: 100px;
 border-radius: 50%;
-background-color: blue;
+background: blue;
 }
 
 .red{
