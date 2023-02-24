@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 
 
-const Home = () => {
+const Trafficlight = () => {
 
 	//        ↓ variable name             ↓ default value
 	const [color, setColor] = useState("");
@@ -37,4 +37,4 @@ const Home = () => {
 	);
 };
 
-export default Home;
+export default Trafficlight;
